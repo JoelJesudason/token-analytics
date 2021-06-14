@@ -1,2 +1,2 @@
-# token-analytics
+# Token Analytics
 Making more informed crypto investments
